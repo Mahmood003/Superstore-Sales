@@ -5,6 +5,7 @@ This is an analysis project for superstore sales data. A dataset consists of all
 - `Superstore Sales Data.xlsx`: The Dataset in Excel format
 - `Superstore Sales Data.csv`: The Dataset in CSV format
 - `ASSIGNMENT_SuperStoreSales_RFManalysis`: The analysis file in MySQL
+- `Customer Segmentation.csv`: Segmented Customers based on RFM analysis
 ## Methodology
 - Checking the dataset and understanding the features
 - Creating a Database in MySQL
