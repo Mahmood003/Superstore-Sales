@@ -11,4 +11,3 @@ This is an analysis project for superstore sales data. A dataset consists of all
 - Importing the dataset with 'Table import wizard' which is known as bulk insertion
 - Checking the data formats and formatting into the correct format
 - Creating Views for RFM segmentation, known as CTE(Common Table Expression)
-- 
