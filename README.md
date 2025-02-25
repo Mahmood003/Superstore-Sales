@@ -22,3 +22,5 @@ This is an analysis project for superstore sales data. A dataset consists of all
 - Segmented customers based on RFM score and categorized them accordingly in a new column
 - Exported the Customer Segmentation in a separate file in CSV format
 - Visualized the RFM analysis in PowerBI
+# Visualization
+![Alt text](![1111](https://github.com/user-attachments/assets/a23c54a6-799d-4906-a240-453e7f7dca0c))
